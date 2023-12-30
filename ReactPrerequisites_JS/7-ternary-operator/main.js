@@ -36,10 +36,10 @@ loggedIn ? logIn() : logOut();
 
 
 // Ternary Operator for Conditional Rendering (Common in JSX or Vue templates)
-const isMember = true;
-const welcomeMessage = isMember
-    ? <div>Welcome back, member!</div>
-    : <div>Welcome guest, please sign up.</div>;
+// const isMember = true;
+// const welcomeMessage = isMember
+//     ? <div>Welcome back, member!</div>
+//     : <div>Welcome guest, please sign up.</div>;
 
 
 // Ternary Operator as Parameters in Function Calls
